@@ -13,13 +13,14 @@
 I’m a developer and software architect who loves building things that actually work — fast, clean, and scalable.
 I’ve spent years bouncing between backend, frontend, and DevOps, and lately I’ve been deep into AI orchestration, RAG pipelines, and LLM-driven systems.
 
-I like working close to the metal with Rust, experimenting with system programming, or wiring up microservices with TypeScript and Python. I’m all about clean architecture, automation, and tools that make developers faster instead of frustrated.
+I like working close to the metal with Rust, experimenting with system programming, or wiring up microservices with Rust, TypeScript and Python. I’m all about clean architecture, automation, and tools that make developers faster instead of frustrated.
 
 ### ⚡ What I’m into
 
-- **AI & LLMs**: orchestration, RAG/CAG, agent pipelines
-- **Architecture**: microservices, CQRS, event-driven stuff
+- **AI & LLMs**: Orchestration, RAG/CAG, Agent pipelines
+- **Architecture**: Microservices, CQRS, Hexagonal
 - **Stack**: Rust, TypeScript, Python, React, .NET
 - **DevOps**: Docker, Azure, CI/CD
+- **Data**: SurrealDB, MongoDB, SQL
 
 Outside of coding, you’ll probably find me on a bike trail or tinkering with some new tech experiment just for fun.
