@@ -18,9 +18,9 @@ I like working close to the metal with Rust, experimenting with system programmi
 ### ⚡ What I’m into
 
 - **AI & LLMs**: Orchestration, RAG/CAG, Agent pipelines
-- **Architecture**: Microservices, CQRS, Hexagonal
-- **Stack**: Rust, TypeScript, Python, React, .NET
+- **Stack**: Rust, Next.JS, FastAPI, Tauri, React, .NET
 - **DevOps**: Docker, Azure, CI/CD
-- **Data**: SurrealDB, MongoDB, SQL
+- **Data**: SurrealDB, SpaceTimeDB, MongoDB, SQL
+- **Alternative**: Veilid
 
 Outside of coding, you’ll probably find me on a bike trail or tinkering with some new tech experiment just for fun.
