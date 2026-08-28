@@ -6,7 +6,7 @@ My work spans backend engineering, frontend architecture, cloud infrastructure a
 
 I enjoy working close to the metal when it matters, designing distributed systems when it doesn't, and automating everything between an idea and working software.
 
-### ⚡ Current focus
+### Current focus
 
 * **Rust** — APIs, parsers, CLIs, systems tooling and high-performance services
 * **AI Engineering** — coding agents, multi-agent orchestration and autonomous development workflows
@@ -15,7 +15,7 @@ I enjoy working close to the metal when it matters, designing distributed system
 * **Developer Tooling** — making agents and developers faster without hiding how the system works
 * **Cloud & DevOps** — containers, Azure, CI/CD and production observability
 
-### 🧰 Stack
+### Stack
 
 #### Languages
 
@@ -69,7 +69,7 @@ I enjoy working close to the metal when it matters, designing distributed system
 ![Hindsight](https://img.shields.io/badge/Hindsight-white?style=for-the-badge\&logo=github\&logoColor=181717&style=social)
 
 
-### 🧪 Things I'm building & exploring
+### Things I'm building & exploring
 
 * **Multi-agent software engineering** with architect/builder agent hierarchies
 * **Specification-driven development** where designs can be debated, refined and implemented by specialized agents
@@ -78,7 +78,7 @@ I enjoy working close to the metal when it matters, designing distributed system
 * **Local-first AI tooling**
 * Smarter ways of giving AI agents **memory, repository context and controlled tool access**
 
-### 🧭 How I like to build
+### How I like to build
 
 ```text
 simple > clever
