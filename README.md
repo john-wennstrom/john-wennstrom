@@ -2,17 +2,6 @@
 
 **Software Architect · Rust Developer · AI Systems Engineer**
 
-![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge\&logo=rust\&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge\&logo=nextdotjs\&logoColor=000000)
-![SurrealDB](https://img.shields.io/badge/SurrealDB-white?style=for-the-badge\&logo=surrealdb\&logoColor=FF00A0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Azure](https://img.shields.io/badge/Azure-white?style=for-the-badge\&logo=microsoftazure\&logoColor=0078D4)
-
-I’m a software architect and developer focused on building **fast, maintainable systems with as little accidental complexity as possible**.
-
 My work spans backend engineering, frontend architecture, cloud infrastructure and developer tooling, but these days a lot of my attention goes into **Rust, AI-assisted engineering, agent orchestration and retrieval systems**.
 
 I enjoy working close to the metal when it matters, designing distributed systems when it doesn't, and automating everything between an idea and working software.
